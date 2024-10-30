@@ -1,2 +1,2 @@
 # ConectS Java Edition
- Versão Reduzida do ConectS
+ Versão Reduzida do ConectS em Java

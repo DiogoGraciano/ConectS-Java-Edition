@@ -35,6 +35,7 @@ public class MainMenu extends javax.swing.JFrame {
         menuTerminal = new javax.swing.JMenu();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("ConnectS");
 
         menuCidade.setText("Cidades");
         menuCidade.addMouseListener(new java.awt.event.MouseAdapter() {
